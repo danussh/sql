@@ -1,0 +1,7 @@
+questions
+1. Write an insert query to create different kinds of pets available for adoption. Add required fields containing the characteristics and history of the pet.
+2.Write an insert query to store the incoming enquiries (availability check) for pets in request collection.Every enquiry will contain an array of pets of their choice.
+3.Write a query to find the status (available or not ) of the first 5 enquiry in request collection, based on the data present in the availability collection.
+4.Write a query to find the count of different kinds of pets found in availability collection(eg.Dog -5, Cat-3, Parrot-4)
+5.Write a query that maps the request data with availability data, explaining how many incoming requests are matching with each entry (pet availability) found 
+in availability collection.
